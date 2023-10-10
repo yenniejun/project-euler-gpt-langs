@@ -1,5 +1,5 @@
 # GPT-4 can solve math problems — but not in all languages
-_A few experiments making GPT-4 solve math problems in 16 different languages_
+*A few experiments making GPT-4 solve math problems in 16 different languages*
 
 ![screenshot of Project Euler website](project-euler-screenshot.png)
 
